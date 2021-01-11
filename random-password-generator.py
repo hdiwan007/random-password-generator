@@ -42,4 +42,3 @@ while i < passwordLen:
 
 password = ''.join(password)
 print(password)
-print(len(password))
